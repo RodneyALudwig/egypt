@@ -34,7 +34,7 @@ http://github.com - automatic!
 [GitHub](http://github.com)
 
 here i am trying to load gaia
-https://github.com/RodneyALudwig/egypt/edit/main/index.html
+https://github.com/RodneyALudwig/egypt/index.html
 
 ### Jekyll Themes
 
